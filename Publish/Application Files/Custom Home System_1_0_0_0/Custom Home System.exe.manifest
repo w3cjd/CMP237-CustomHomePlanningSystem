@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Custom Home System.exe" version="1.0.0.0" publicKeyToken="42428b3361cad656" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Custom Home System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Custom Home System.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Custom Home System.exe" size="166856">
+      <assemblyIdentity name="Custom Home System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Ut3HTVqm98zBPKTp8q5+mVtfbTJfHg0/YBgRob+qIPg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Custom Home System.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c922zfRb5ORzqEo8SDjt8Mx8lDMhGTWhqKcK/oileDM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CHRIS-TPP40\cjd20" issuerKeyHash="fd6d8369fcea48276e8c4b20a9b5a70a424f9c63" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OQrWtaGf5ATlBdLnOiVRZDyK4uLb3KNQ5jbXKn5a8sw=</DigestValue></Reference></SignedInfo><SignatureValue>zczY2xDvTDXcscm5BGfb+v6eJcao/e9B0mBQdU44rkja8TU6IxQI+A2bc3RIey1h3wtQSVx4gE3Zv3OlvaSEMQBoNVFHjlnoSVg+7g3fYlWxgpvSZGGRFS78Op0lD3+4fdL+JE84rLfo6MOIlpiuT4JzCSKLc86nUQMzECe69Co=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7zpvdk4Txo1o3cJU2llVPXvy1VLmEp0eHRWzsVLC8/L/nvwgRzzmv9VJRgGlLV94njNL+NcC0tMtnM9yZnJ2xT07NCCjIZMh7yZpUYs5DhM2b6r5qIHEkYtd52frpXbEdf5DYqmk0lHE4BKV9RS7A0ltwWFKYYx1K0ph7KLacx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ccf25a7e2ad736e650a3dcdbe2e28a3c6451253ae7d205e504e49fa1b5d60a39" Description="" Url=""><as:assemblyIdentity name="Custom Home System.exe" version="1.0.0.0" publicKeyToken="42428b3361cad656" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CHRIS-TPP40\cjd20</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>V/wgm5bEwfRlmFnkjWn8u+krnpe6RSGbyDnAQAHuvCc=</DigestValue></Reference></SignedInfo><SignatureValue>NnKOu/0FTzYdTE6S90sxFAv6NnW9bjm+4F71XfCqU9kOCAkOBmg42UIi2F5rzIhRmPrW+yfS4S0w8sAOM0f5Yuszf9o0tXe4UWfrE7UjYNnzbJ2vqOZZGwlxwTm+bbileDWHGNXCYCWE4aZJriNa6nPL/7uN220YDRnNPseeZFA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7zpvdk4Txo1o3cJU2llVPXvy1VLmEp0eHRWzsVLC8/L/nvwgRzzmv9VJRgGlLV94njNL+NcC0tMtnM9yZnJ2xT07NCCjIZMh7yZpUYs5DhM2b6r5qIHEkYtd52frpXbEdf5DYqmk0lHE4BKV9RS7A0ltwWFKYYx1K0ph7KLacx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQL4xek1VUMrFJHgnY4+BRiDANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAQwBIAFIASQBTAC0AVABQAFAANAAwAFwAYwBqAGQAMgAwMB4XDTE5MDMyODE0NDA0MloXDTIwMDMyNzIwNDA0MlowLTErMCkGA1UEAx4iAEMASABSAEkAUwAtAFQAUABQADQAMABcAGMAagBkADIAMDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA7zpvdk4Txo1o3cJU2llVPXvy1VLmEp0eHRWzsVLC8/L/nvwgRzzmv9VJRgGlLV94njNL+NcC0tMtnM9yZnJ2xT07NCCjIZMh7yZpUYs5DhM2b6r5qIHEkYtd52frpXbEdf5DYqmk0lHE4BKV9RS7A0ltwWFKYYx1K0ph7KLacx0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAFk/ETIIv+McH+yOFSfIP4ONo1vSJpGTSxBRQarPcq5qIsc15riq4NlAZ3IPV+15rekhhCvBF0iPnPQnPx5dMHnowQaoNZIs8zGoxHQJDWDfWAoNQfBQN+kQ9x31bPaX8TkQpL0BgzVocNyP1spAqj04VdUL7DTKNZX3rpdgzaAg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
