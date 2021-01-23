@@ -1,0 +1,26 @@
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.exe.config
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.exe
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.pdb
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.xml
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbprojAssemblyReference.cache
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.frmMain.resources
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.Resources.resources
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbproj.GenerateResource.cache
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbproj.CoreCompileInputs.cache
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.exe
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.xml
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.pdb
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.SplashScreen.resources
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.exe.manifest
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\bin\Debug\Custom Home System.application
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.exe.manifest
+G:\My Drive\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.application
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbprojAssemblyReference.cache
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.frmMain.resources
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.Resources.resources
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom_Home_System.SplashScreen.resources
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbproj.GenerateResource.cache
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.vbproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.exe
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.xml
+C:\Users\chris\OneDrive - Planet Networks, Inc\Documents\MK + CCM\Drive\Junior Year\CCM CMP 237\Custom Home System\Custom Home System\obj\Debug\Custom Home System.pdb
